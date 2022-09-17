@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/pittsburgh-pa/static/js/main.fc29aad6.chunk.js",
+    "main.js.map": "/pittsburgh-pa/static/js/main.fc29aad6.chunk.js.map",
+    "runtime-main.js": "/pittsburgh-pa/static/js/runtime-main.61574b11.js",
+    "runtime-main.js.map": "/pittsburgh-pa/static/js/runtime-main.61574b11.js.map",
+    "static/css/2.5082ff89.chunk.css": "/pittsburgh-pa/static/css/2.5082ff89.chunk.css",
+    "static/js/2.77b34ede.chunk.js": "/pittsburgh-pa/static/js/2.77b34ede.chunk.js",
+    "static/js/2.77b34ede.chunk.js.map": "/pittsburgh-pa/static/js/2.77b34ede.chunk.js.map",
+    "index.html": "/pittsburgh-pa/index.html",
+    "static/css/2.5082ff89.chunk.css.map": "/pittsburgh-pa/static/css/2.5082ff89.chunk.css.map",
+    "static/js/2.77b34ede.chunk.js.LICENSE.txt": "/pittsburgh-pa/static/js/2.77b34ede.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61574b11.js",
+    "static/css/2.5082ff89.chunk.css",
+    "static/js/2.77b34ede.chunk.js",
+    "static/js/main.fc29aad6.chunk.js"
+  ]
+}
