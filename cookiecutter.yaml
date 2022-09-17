@@ -1,0 +1,15 @@
+default_context:
+    municipality: "Pittsburgh"
+    iana_timezone: "America/New_York"
+    governing_body_type: "city council"
+    municipality_slug: "pittsburgh-pa"
+    python_municipality_slug: "pittsburgh_pa"
+    infrastructure_slug: "cdp-pittsburgh-pa-940bf40c"
+    maintainer_or_org_full_name: "dphoria"
+    hosting_github_username_or_org: "CouncilDataProject"
+    hosting_github_repo_name: "pittsburgh-pa"
+    hosting_github_url: "https://github.com/CouncilDataProject/pittsburgh-pa"
+    hosting_web_app_address: "https://councildataproject.github.io/pittsburgh-pa"
+    firestore_region: "us-east4"
+    event_gather_timedelta_lookback_days: 2
+    event_gather_cron: "44 9,21 * * *"
