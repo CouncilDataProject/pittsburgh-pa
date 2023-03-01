@@ -5,7 +5,7 @@ Top-level package for Pittsburgh
 CDP Instance backend.
 """
 
-__author__ = "dphoria"
+__author__ = "Council Data Project Contributors"
 __version__ = "1.0.0"
 
 
