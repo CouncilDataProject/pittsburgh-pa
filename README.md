@@ -8,6 +8,8 @@
 
 ---
 
+⚠️⚠️ This instance of CDP is not actively collecting new data. If you are interested in maintaining this instance, please create a GitHub Issue. ⚠️⚠️
+
 ## Council Data Project
 
 Council Data Project is an open-source project dedicated to providing journalists, activists, researchers, and all members of each community we serve with the tools they need to stay informed and hold their Council Members accountable.
